@@ -1,0 +1,1 @@
+g++ .\Component.h .\Component.cpp .\Capacitor.h .\Capacitor.cpp .\Inductor.h .\Inductor.cpp .\Resistor.h .\Resistor.cpp .\Circuit.h .\Circuit.cpp .\main.cpp -o .\main.exe
